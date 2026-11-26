@@ -1,0 +1,3738 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "SoliqIDKit",
+    "printedName": "SoliqIDKit",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "YuzIDKit",
+        "printedName": "YuzIDKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDLanguage",
+        "printedName": "SoliqIDLanguage",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "uz",
+            "printedName": "uz",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDLanguage.Type) -> SoliqIDKit.SoliqIDLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDLanguage",
+                        "printedName": "SoliqIDKit.SoliqIDLanguage",
+                        "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO2uzyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO2uzyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "uzCyrillic",
+            "printedName": "uzCyrillic",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDLanguage.Type) -> SoliqIDKit.SoliqIDLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDLanguage",
+                        "printedName": "SoliqIDKit.SoliqIDLanguage",
+                        "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO10uzCyrillicyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO10uzCyrillicyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "ru",
+            "printedName": "ru",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDLanguage.Type) -> SoliqIDKit.SoliqIDLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDLanguage",
+                        "printedName": "SoliqIDKit.SoliqIDLanguage",
+                        "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO2ruyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO2ruyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "en",
+            "printedName": "en",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDLanguage.Type) -> SoliqIDKit.SoliqIDLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDLanguage",
+                        "printedName": "SoliqIDKit.SoliqIDLanguage",
+                        "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO2enyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO2enyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "karakalpak",
+            "printedName": "karakalpak",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDLanguage.Type) -> SoliqIDKit.SoliqIDLanguage",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDLanguage",
+                        "printedName": "SoliqIDKit.SoliqIDLanguage",
+                        "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO10karakalpakyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO10karakalpakyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDLanguage",
+                "printedName": "SoliqIDKit.SoliqIDLanguage",
+                "usr": "s:10SoliqIDKit0A10IDLanguageO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDLanguage",
+                "printedName": "SoliqIDKit.SoliqIDLanguage",
+                "usr": "s:10SoliqIDKit0A10IDLanguageO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO2eeoiySbAC_ACtFZ",
+            "moduleName": "SoliqIDKit",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO9hashValueSivp",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO9hashValueSivp",
+            "moduleName": "SoliqIDKit",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A10IDLanguageO9hashValueSivg",
+                "mangledName": "$s10SoliqIDKit0A10IDLanguageO9hashValueSivg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SoliqIDKit0A10IDLanguageO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s10SoliqIDKit0A10IDLanguageO4hash4intoys6HasherVz_tF",
+            "moduleName": "SoliqIDKit",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10SoliqIDKit0A10IDLanguageO",
+        "mangledName": "$s10SoliqIDKit0A10IDLanguageO",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDInfoType",
+        "printedName": "SoliqIDInfoType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "pinfl",
+            "printedName": "pinfl",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDInfoType.Type) -> SoliqIDKit.SoliqIDInfoType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDInfoType",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType",
+                    "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDInfoType",
+                        "printedName": "SoliqIDKit.SoliqIDInfoType",
+                        "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDInfoTypeO5pinflyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO5pinflyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "passport",
+            "printedName": "passport",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDInfoType.Type) -> SoliqIDKit.SoliqIDInfoType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDInfoType",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType",
+                    "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDInfoType",
+                        "printedName": "SoliqIDKit.SoliqIDInfoType",
+                        "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A10IDInfoTypeO8passportyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO8passportyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDInfoType",
+                "printedName": "SoliqIDKit.SoliqIDInfoType",
+                "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDInfoType",
+                "printedName": "SoliqIDKit.SoliqIDInfoType",
+                "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SoliqIDKit0A10IDInfoTypeO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO2eeoiySbAC_ACtFZ",
+            "moduleName": "SoliqIDKit",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A10IDInfoTypeO9hashValueSivp",
+            "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO9hashValueSivp",
+            "moduleName": "SoliqIDKit",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A10IDInfoTypeO9hashValueSivg",
+                "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO9hashValueSivg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SoliqIDKit0A10IDInfoTypeO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO4hash4intoys6HasherVz_tF",
+            "moduleName": "SoliqIDKit",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10SoliqIDKit0A10IDInfoTypeO",
+        "mangledName": "$s10SoliqIDKit0A10IDInfoTypeO",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDConfig",
+        "printedName": "SoliqIDConfig",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "infoType",
+            "printedName": "infoType",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDInfoType",
+                "printedName": "SoliqIDKit.SoliqIDInfoType",
+                "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDInfoType",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType",
+                    "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDInfoType",
+                    "printedName": "SoliqIDKit.SoliqIDInfoType",
+                    "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0Ovs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0OvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8infoTypeAA0a6IDInfoE0OvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pinfl",
+            "printedName": "pinfl",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV5pinflSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV5pinflSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV5pinflSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV5pinflSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV5pinflSSvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV5pinflSSvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV5pinflSSvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV5pinflSSvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "passportSeries",
+            "printedName": "passportSeries",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV14passportSeriesSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportSeriesSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportSeriesSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportSeriesSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportSeriesSSvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportSeriesSSvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportSeriesSSvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportSeriesSSvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "passportNumber",
+            "printedName": "passportNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV14passportNumberSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportNumberSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportNumberSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportNumberSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportNumberSSvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportNumberSSvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14passportNumberSSvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14passportNumberSSvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "birthDate",
+            "printedName": "birthDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV9birthDateSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV9birthDateSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV9birthDateSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV9birthDateSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV9birthDateSSvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV9birthDateSSvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV9birthDateSSvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV9birthDateSSvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "guid",
+            "printedName": "guid",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV4guidSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV4guidSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV4guidSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV4guidSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV4guidSSvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV4guidSSvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV4guidSSvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV4guidSSvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "applicationGuid",
+            "printedName": "applicationGuid",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV15applicationGuidSSSgvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "language",
+            "printedName": "language",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDLanguage",
+                "printedName": "SoliqIDKit.SoliqIDLanguage",
+                "usr": "s:10SoliqIDKit0A10IDLanguageO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDLanguage",
+                    "printedName": "SoliqIDKit.SoliqIDLanguage",
+                    "usr": "s:10SoliqIDKit0A10IDLanguageO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV8languageAA0A10IDLanguageOvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "showsResultScreen",
+            "printedName": "showsResultScreen",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV17showsResultScreenSbvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV17showsResultScreenSbvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV17showsResultScreenSbvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV17showsResultScreenSbvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV17showsResultScreenSbvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV17showsResultScreenSbvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV17showsResultScreenSbvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV17showsResultScreenSbvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "enableSecurityChecks",
+            "printedName": "enableSecurityChecks",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV20enableSecurityChecksSbvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "allowSimulator",
+            "printedName": "allowSimulator",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV14allowSimulatorSbvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV14allowSimulatorSbvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14allowSimulatorSbvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14allowSimulatorSbvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14allowSimulatorSbvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14allowSimulatorSbvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV14allowSimulatorSbvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV14allowSimulatorSbvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "allowDebugger",
+            "printedName": "allowDebugger",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDConfigV13allowDebuggerSbvp",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV13allowDebuggerSbvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV13allowDebuggerSbvg",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV13allowDebuggerSbvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV13allowDebuggerSbvs",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV13allowDebuggerSbvs",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDConfigV13allowDebuggerSbvM",
+                "mangledName": "$s10SoliqIDKit0A8IDConfigV13allowDebuggerSbvM",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(infoType:pinfl:passportSeries:passportNumber:birthDate:guid:applicationGuid:language:showsResultScreen:enableSecurityChecks:allowSimulator:allowDebugger:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDConfig",
+                "printedName": "SoliqIDKit.SoliqIDConfig",
+                "usr": "s:10SoliqIDKit0A8IDConfigV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDInfoType",
+                "printedName": "SoliqIDKit.SoliqIDInfoType",
+                "usr": "s:10SoliqIDKit0A10IDInfoTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDLanguage",
+                "printedName": "SoliqIDKit.SoliqIDLanguage",
+                "hasDefaultArg": true,
+                "usr": "s:10SoliqIDKit0A10IDLanguageO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10SoliqIDKit0A8IDConfigV8infoType5pinfl14passportSeries0G6Number9birthDate4guid15applicationGuid8language17showsResultScreen20enableSecurityChecks14allowSimulator0V8DebuggerAcA0a6IDInfoE0O_S6SSgAA0A10IDLanguageOS4btcfc",
+            "mangledName": "$s10SoliqIDKit0A8IDConfigV8infoType5pinfl14passportSeries0G6Number9birthDate4guid15applicationGuid8language17showsResultScreen20enableSecurityChecks14allowSimulator0V8DebuggerAcA0a6IDInfoE0O_S6SSgAA0A10IDLanguageOS4btcfc",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10SoliqIDKit0A8IDConfigV",
+        "mangledName": "$s10SoliqIDKit0A8IDConfigV",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDPerson",
+        "printedName": "SoliqIDPerson",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "pinfl",
+            "printedName": "pinfl",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV5pinflSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV5pinflSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV5pinflSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV5pinflSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "surName",
+            "printedName": "surName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV7surNameSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV7surNameSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV7surNameSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV7surNameSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV4nameSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV4nameSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV4nameSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV4nameSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "patronymicName",
+            "printedName": "patronymicName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV14patronymicNameSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV14patronymicNameSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV14patronymicNameSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV14patronymicNameSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "birthDate",
+            "printedName": "birthDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV9birthDateSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV9birthDateSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV9birthDateSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV9birthDateSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "birthPlace",
+            "printedName": "birthPlace",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV10birthPlaceSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV10birthPlaceSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV10birthPlaceSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV10birthPlaceSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "docSerial",
+            "printedName": "docSerial",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV9docSerialSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV9docSerialSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV9docSerialSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV9docSerialSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "docNumber",
+            "printedName": "docNumber",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV9docNumberSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV9docNumberSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV9docNumberSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV9docNumberSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "livingPlace",
+            "printedName": "livingPlace",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV11livingPlaceSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV11livingPlaceSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV11livingPlaceSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV11livingPlaceSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "docGiveDate",
+            "printedName": "docGiveDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV11docGiveDateSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV11docGiveDateSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV11docGiveDateSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV11docGiveDateSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "docExpirationDate",
+            "printedName": "docExpirationDate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV17docExpirationDateSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV17docExpirationDateSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV17docExpirationDateSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV17docExpirationDateSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "docGivePlace",
+            "printedName": "docGivePlace",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV12docGivePlaceSSvp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV12docGivePlaceSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV12docGivePlaceSSvg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV12docGivePlaceSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "status",
+            "printedName": "status",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A8IDPersonV6statusSivp",
+            "mangledName": "$s10SoliqIDKit0A8IDPersonV6statusSivp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A8IDPersonV6statusSivg",
+                "mangledName": "$s10SoliqIDKit0A8IDPersonV6statusSivg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10SoliqIDKit0A8IDPersonV",
+        "mangledName": "$s10SoliqIDKit0A8IDPersonV",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDEvent",
+        "printedName": "SoliqIDEvent",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "success",
+            "printedName": "success",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV7successSbvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV7successSbvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV7successSbvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV7successSbvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "code",
+            "printedName": "code",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV4codeSivp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV4codeSivp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV4codeSivg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV4codeSivg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "message",
+            "printedName": "message",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV7messageSSvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV7messageSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV7messageSSvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV7messageSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "id",
+            "printedName": "id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV2idSivp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV2idSivp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV2idSivg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV2idSivg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "token",
+            "printedName": "token",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV5tokenSSvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV5tokenSSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV5tokenSSvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV5tokenSSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "person",
+            "printedName": "person",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDPerson",
+                "printedName": "SoliqIDKit.SoliqIDPerson",
+                "usr": "s:10SoliqIDKit0A8IDPersonV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV6personAA0A8IDPersonVvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV6personAA0A8IDPersonVvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDPerson",
+                    "printedName": "SoliqIDKit.SoliqIDPerson",
+                    "usr": "s:10SoliqIDKit0A8IDPersonV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV6personAA0A8IDPersonVvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV6personAA0A8IDPersonVvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "imageBase64",
+            "printedName": "imageBase64",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV11imageBase64SSvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV11imageBase64SSvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV11imageBase64SSvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV11imageBase64SSvg",
+                "moduleName": "SoliqIDKit",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "dictionary",
+            "printedName": "dictionary",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10SoliqIDKit0A7IDEventV10dictionarySDySSypGvp",
+            "mangledName": "$s10SoliqIDKit0A7IDEventV10dictionarySDySSypGvp",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10SoliqIDKit0A7IDEventV10dictionarySDySSypGvg",
+                "mangledName": "$s10SoliqIDKit0A7IDEventV10dictionarySDySSypGvg",
+                "moduleName": "SoliqIDKit",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:10SoliqIDKit0A7IDEventV",
+        "mangledName": "$s10SoliqIDKit0A7IDEventV",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDError",
+        "printedName": "SoliqIDError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "alreadyRunning",
+            "printedName": "alreadyRunning",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDError.Type) -> SoliqIDKit.SoliqIDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDError",
+                    "printedName": "SoliqIDKit.SoliqIDError",
+                    "usr": "s:10SoliqIDKit0A7IDErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A7IDErrorO14alreadyRunningyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A7IDErrorO14alreadyRunningyA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "noViewController",
+            "printedName": "noViewController",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDError.Type) -> SoliqIDKit.SoliqIDError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDError",
+                    "printedName": "SoliqIDKit.SoliqIDError",
+                    "usr": "s:10SoliqIDKit0A7IDErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A7IDErrorO16noViewControlleryA2CmF",
+            "mangledName": "$s10SoliqIDKit0A7IDErrorO16noViewControlleryA2CmF",
+            "moduleName": "SoliqIDKit"
+          },
+          {
+            "kind": "Var",
+            "name": "invalidConfiguration",
+            "printedName": "invalidConfiguration",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDError.Type) -> (Swift.String) -> SoliqIDKit.SoliqIDError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> SoliqIDKit.SoliqIDError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A7IDErrorO20invalidConfigurationyACSScACmF",
+            "mangledName": "$s10SoliqIDKit0A7IDErrorO20invalidConfigurationyACSScACmF",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "securityCheckFailed",
+            "printedName": "securityCheckFailed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDError.Type) -> ([Swift.String]) -> SoliqIDKit.SoliqIDError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "([Swift.String]) -> SoliqIDKit.SoliqIDError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.String]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A7IDErrorO19securityCheckFailedyACSaySSGcACmF",
+            "mangledName": "$s10SoliqIDKit0A7IDErrorO19securityCheckFailedyACSaySSGcACmF",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "server",
+            "printedName": "server",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDError.Type) -> (Swift.String) -> SoliqIDKit.SoliqIDError",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String) -> SoliqIDKit.SoliqIDError",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A7IDErrorO6serveryACSScACmF",
+            "mangledName": "$s10SoliqIDKit0A7IDErrorO6serveryACSScACmF",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10SoliqIDKit0A7IDErrorO",
+        "mangledName": "$s10SoliqIDKit0A7IDErrorO",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqIDResult",
+        "printedName": "SoliqIDResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "completed",
+            "printedName": "completed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDResult.Type) -> (SoliqIDKit.SoliqIDEvent) -> SoliqIDKit.SoliqIDResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(SoliqIDKit.SoliqIDEvent) -> SoliqIDKit.SoliqIDResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDResult",
+                        "printedName": "SoliqIDKit.SoliqIDResult",
+                        "usr": "s:10SoliqIDKit0A8IDResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDEvent",
+                        "printedName": "SoliqIDKit.SoliqIDEvent",
+                        "usr": "s:10SoliqIDKit0A7IDEventV"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDResult",
+                        "printedName": "SoliqIDKit.SoliqIDResult",
+                        "usr": "s:10SoliqIDKit0A8IDResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A8IDResultO9completedyAcA0A7IDEventVcACmF",
+            "mangledName": "$s10SoliqIDKit0A8IDResultO9completedyAcA0A7IDEventVcACmF",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cancelled",
+            "printedName": "cancelled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDResult.Type) -> SoliqIDKit.SoliqIDResult",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDResult",
+                    "printedName": "SoliqIDKit.SoliqIDResult",
+                    "usr": "s:10SoliqIDKit0A8IDResultO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDResult",
+                        "printedName": "SoliqIDKit.SoliqIDResult",
+                        "usr": "s:10SoliqIDKit0A8IDResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A8IDResultO9cancelledyA2CmF",
+            "mangledName": "$s10SoliqIDKit0A8IDResultO9cancelledyA2CmF",
+            "moduleName": "SoliqIDKit",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "failure",
+            "printedName": "failure",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDResult.Type) -> (SoliqIDKit.SoliqIDError) -> SoliqIDKit.SoliqIDResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(SoliqIDKit.SoliqIDError) -> SoliqIDKit.SoliqIDResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDResult",
+                        "printedName": "SoliqIDKit.SoliqIDResult",
+                        "usr": "s:10SoliqIDKit0A8IDResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDError",
+                        "printedName": "SoliqIDKit.SoliqIDError",
+                        "usr": "s:10SoliqIDKit0A7IDErrorO"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "SoliqIDKit.SoliqIDResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SoliqIDResult",
+                        "printedName": "SoliqIDKit.SoliqIDResult",
+                        "usr": "s:10SoliqIDKit0A8IDResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10SoliqIDKit0A8IDResultO7failureyAcA0A7IDErrorOcACmF",
+            "mangledName": "$s10SoliqIDKit0A8IDResultO7failureyAcA0A7IDErrorOcACmF",
+            "moduleName": "SoliqIDKit"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10SoliqIDKit0A8IDResultO",
+        "mangledName": "$s10SoliqIDKit0A8IDResultO",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SoliqIDKit"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SoliqID",
+        "printedName": "SoliqID",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present(from:config:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SoliqIDConfig",
+                "printedName": "SoliqIDKit.SoliqIDConfig",
+                "usr": "s:10SoliqIDKit0A8IDConfigV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SoliqIDKit.SoliqIDResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SoliqIDResult",
+                    "printedName": "SoliqIDKit.SoliqIDResult",
+                    "usr": "s:10SoliqIDKit0A8IDResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10SoliqIDKit0A2IDO7present4from6config10completionySo16UIViewControllerCSg_AA0A8IDConfigVyAA0A8IDResultOctFZ",
+            "mangledName": "$s10SoliqIDKit0A2IDO7present4from6config10completionySo16UIViewControllerCSg_AA0A8IDConfigVyAA0A8IDResultOctFZ",
+            "moduleName": "SoliqIDKit",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10SoliqIDKit0A2IDO",
+        "mangledName": "$s10SoliqIDKit0A2IDO",
+        "moduleName": "SoliqIDKit",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/ApiClient.swift",
+      "kind": "StringLiteral",
+      "offset": 257,
+      "length": 23,
+      "value": "\"https:\/\/api.yuzid.uz\/\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/ApiClient.swift",
+      "kind": "Array",
+      "offset": 4695,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/DeviceInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 196,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/DeviceInfo.swift",
+      "kind": "IntegerLiteral",
+      "offset": 323,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/DeviceInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 346,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/EmbeddedAssets.swift",
+      "kind": "IntegerLiteral",
+      "offset": 329,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/EmbeddedAssets.swift",
+      "kind": "StringLiteral",
+      "offset": 373,
+      "length": 14612,
+      "value": "\"iVBORw0KGgoAAAANSUhEUgAAAUQAAAFECAYAAABf6kfGAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAACoESURB\nVHgB7d17cFzXfR\/w37n37gNPXpIgCPC5S+oBypa8kCWKlGUJcCUrquwQ8COyE6ck\/3Kbdipy0sZtJy7JjsfpTO2KnP4R\/0dyOpNk0j8ATiejSuMUy8SJZEcy\nVhb1cGwJKymSKFkklw+Ai917z8k55+6CS2AB4rEAzt39fihon\/dicR+\/\/Z3HPYcIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoCo5AYGhpy7Xj7QFvbmkcikVjKYlaKyU9vWRaRoOAvkbdccJKvTf1lnJceU\/Ae9Vgp\nv2f64\/muo\/x7BYnc+PjVE1f4xPHB\/v4cAayC50ZeONLS3HLItmx31mOb5j6Wqx3\/levQz8v33mod3JfLMJGemJzI5ifGzxbG8+nBwSeyFALGB8ShZ0cSa1pa\nT65pd\/tamlr1J7b1zpJbX0VEtQPJl7dM7qRgj3JBUzuOyefkM\/p1Wz4n5E4NXmfky9f1uvQyTD9XPgDU+m1m6\/crXO9stR5L\/x4ugr3PhU++PADGJ8aHH\/hs\nzyABrLCRn7w0srGjuy8aicrj1ZvXsVx5\/Ktjmclbdfr43JNHdXBfHeLqnFHnhy8XuhEM5brlP3lGqbXpIBKcHyJ4Tq8vOEfU+69NXKXx69eGL126cGzwyS9m\nyGBGB8Tnz7749Nq2tUebm5rdeDROHi+Q+shyX+oN7nGfInInFeStY6mdI3ek2nnixreaX3pNPRexI+T5Rf2aeuzonc30P7XzRJDyEbP0IVEKpuob0A9uhVpX\nhNSbLHmAefLgsdWHEergsuiTSx\/0fm53r9E7HOrLXz0\/ktrUtXW0uamFVHBSx7TQx71XKsGo55wqxzKnqDwfgmzQ1u9Xz5N8zKwbQU0FSnVfnS8qoNpyXWqt\nwTkTLKvOCxVB9bkmH8vISerMUgFXva\/gFyjutFDu6qXctfy1o4\/s6T1BhnLIQKp43Lq+e6hz3ca+iBMh27aoyPMy+MmNr3es0N9QlmOp3FBuf7v0PSWovLOC\ne0Lv3OAQkOuQ95gdfAdY8pus\/O7yMkr5GyJYpsQOXrXk5grCJguyUvm8X1rClvfbWtpS8i4CIqwYy46mYjJZUF\/MQh\/j6svanzpmVcZW\/VhWz8sgx8rHcpAJ\nBllfcK98bgSZn7pvTx3\/VDqnfOJT586N85AHv9EOPkGEOTKgTlJba5srA\/fx9N+\/3Hdp8spBE6uYLDKMCoZu59aRLZ1b++KxGEUjtk7vbVtmZGrnyZ0j9B5l\n+lYE27xUhBb6fvk5MfX8jdfFLK+LimXnv87SfUt+g8pD0WFR1CHCiopHYjkhghRBqJok6+ZjdWHnR62WKT8XJC5Cnavqs8kqJ8cWtGnDloHN7qaRoZERlwxj\nVEBUwbDF7RrqXN+Vchxbf2npDStvuQ6CFYHIMMyysk1NbWkCWEE5\/2paFlWzQUYnzDs3yuerqtNU57GlSlNEbuuaVHfbxiEyjFEBsal9w4HElh19joyEutFq\nKiM0cEffLOcL6k8m1yJDhBWlip12xBkUXOhM0WjlwCiL9JbFyZUNpS++fO4QGcSYMPOXQ8+nEolto+2ta4LMkFRmOGsgzMoa3tOcTCCycSoOJ5NJBENYNWNj\nl1xZbTPgk59QxdTVZBNzZZHpERmgU7oIXYUM4PJ9DuWv53MffvxR\/xf7dxtR925Mo0rXxvVH2pvbZYtY0BgiggbgaUSGC2twV7I7SwAwpVQ6OUUGkUE6wUVh\nxCOemB4YVU8OIVuno1HHdde0PSOf6icDGFFkHhp6NtHSvGZAbyTVbaZKEZkLcSwqCv0IhgDhIIN0dmdyY5I8OmaJmUU9ETRcU1tLe58pDSxGBEQ7Hu9raWqR\n1QulRn1288aTzfrZXcnNR1EsBQifD66dP+4XRaZqSZ4x3WUtsX7rABnAiIDornH3MdWZU3Uq1b2uK19lFBFmpNMAsHD9vb25sQsfDcqiH9H0KsWgU6QMihEE\nxDInEklYs7Qk24KlkygmA4TaE3t7s5evXc7qa\/ymBUVVdI449mfIAGYUmS07pa+XrNJtgHF6hQAg9CJW5LTgrGrHEVk6TJABTAmI+pZN73StBm7gAvWGAHXg\nypVcqZ\/2tJDIgp4lJjAiIKqLwvWwQVU2yrX8BAFA+Hl6AAnV3Wbmee6rASIMYEyGyGbpga3HWQOAuqDOZovNPNenxldcZUZ8CjVKhikpMwAsD8eK6iHBeJVT\nnRty2aERAbE8cGVV3IwL9ABgadR4pkyPHzrznDblGmIjAqIaaJKZPXgDANSCHuh+ZthhhgQAgyroEBEB6pmaTsCx7arFYxSZK6hhyY0fuggAliTqxHUdYmlu\nAyOZUWTmvjHfEACwPII5kczuOWJMK7NtSLM7ACwPPdkVsRtTnhrIkI7ZHqoQAepcwSsE06NWu0SXzIA6RABYEaoOUfW4sSyGOsS5oFM2QGNY7ekNbsWMgIjO\n1wB1TzWq6Int+cyh\/kxJiQzJELkxHTMBYHmofoh6\/miDS4RmDBBrR4ytUwCA2lB1iKqVWQ\/kgDrE2fk+J1+g2AxQz1SRWQ31V60wiFbmm4iqQwIBQH1RPUqq\n1SGawphWZsRDgPoWlAF9o9sLzLhSRdYpoBsiQH2LyuzQLyeH0yeawuAONzBctgfQEHQXu2oJIob\/ukGgQQWg7qk5VRzUId4aBogFqH867WFm9znGALEAsCJU\nsBHCUvPuzahDRLebCo7toGM2QJ1TxWU9spXBDOmY7aNjNkCdU3WI6moVjvEQ56b6IWKAWID65slaRJ9PVh3+C4M7TIcqRIC65uhwY5PJnY4xQCwArAhVh1j0\nC0bPn4QBYgFghVgUi8SDu9NKhKaMZYABYgFgReR5njgvBrPu4dK92QkqzdUKAHVL1SH6somZG5wAGTNALDOpjzgA1JyqQzS9esyMKCQo56mBI6u85DixLAFA\n6HnCz6qgWHWiekY5MoARAbHIi6ccKzLju0N+uFxzvGWYACD0rlx4fzhfyOcEn5n6RK3IaTKAMb3\/Xn\/zvSEn6gwIKwiL8v9ZSziDdyQ7MwR1JdXX5+bO51xZ\nzS7\/i+ey2YwR2QEsv7GxS4kiz4\/IbCch2FQKNBwVkweTyeSqHwdGdYceG\/s4VSQ\/JesZclGaTJuwgWDxEj2pRDRip2RF+j6KxF3\/+njKjsWIcc\/1ikVXfe0x\ny8k5kWiuODlJTsTOWIIPF3w6m30zkyWoSzIouoXC1T4WjchjwM6YlPTg+hCoGZX5jV+4MlAs+PuYxfpICPdGd4rpFSLlx9MPweCxrGeSJ4l1OhqLDr+ZeTFL\nACsAARGWJJFIuXHXSeUnvadtiw34XmUXKkGL707F9I+ugGfWUc75aWSNsNwQEGHRErtSTxOnA8wSKcErg18tu1aw8k\/Osu3ht1\/\/+UECWCYIiLBgsm7wgAx6\nR2SROBE8s5RMcL6CwMicSCZi2cf+8dWfofcB1BwCIsxbas+exJWrxSHueakbQXClO9oyPSmZE3FO\/erVl5EtQk0hIMItqXrCSJO93yP\/qODcXZ1AWKlUv2hb\n2aZoZPC1zD+gaxbUBK6Xg1tiLfZQkXvHzQiGVPr9nLjPExOTxdGdd+8eIIAaQIYIs1L9CG1mn\/R5sc+MQFiNLELLlmjLsk+99RoaXGBpEBChqkTfgGt\/8t5J\nv1gcMDcYlgX1irZtpVvbYgczL6LfIiwOAiJUtWNXakgWkQeCodnCwtL1ipxTP\/oswmKgDhFm2NGTOsJ1MAzbGJWqXtFPyBL0aM+n7+sjgAWyCaBCT2pPwvO8\nYQrxoL1CiLgv6EDnth104cP3zhLAPCEgwhRVb8ivXnjhRmtymMnCvuf1rdvQ7V765PxzBDAPKDLDFOeTD57mnp+gUNUbzkYW+IWvhqs\/tPPTvSOpVJ9LALeA\nRhXQEvc\/lmJXPx4Voh7nt1Et0HbWt+yD2XMvpQlgFigyg7bWbX9WcNFVn5N9qWxRuPLbf2Bd15b4pY8\/QL0iVIUMESjxqXsPkOedNL+\/4VIFl\/zZljUcicUP\nY5xFmA4BscGpq1Fk+jQW5lblhZNFaMvOMts++GsUoaECiswNzu3c\/AwJP9VY82IHRWj5Fx\/YsGlrrr2p85e53Pk8QcNDhtjAPpW6PzWRL4yq1tjGVCpCO042\nEon2owgNyBAbWNvarj+VwbCHGprMFrlwOfcH1m7sYpd+c\/5FgoaFDLFB3S6zw+L1wmhj1R3OpTzGop1pb48NYoCIxoQMsUG1r+38U1mR1oNgWEnXLXZNTvKB\nDV2b6eLHH\/6UoKEgQ2xAiU+lUuQJmR02at3hrQTDiVmMpS0rcvhXr2FE7kaBDLEBre3o+nNZcZYgmIPOFhOC82+s79rcs6Zl41m0RNc\/ZIgNRo1mU5jMj8lG\nBEJxeT6m5ofOxtraDr\/xs7\/FbH91DIM7NJhCobCfczSkzF9p\/hbuJ\/JXrgzt3JUaUV8qBHUJGWIDSaRSrlWgUTWIKgLiYgX1i4zZx6Ox6An0XawvCIh1Sk0d\nSnFy464r\/0eUJ5fGP3lvX7HoHUdjSi1YanKrHGN0\/O3XM8cI6gICYp1Qk8hfu1bYL8\/SlMwAU4IxV3hFV2czli3zQbmrhac6IVN9jHdogtKVLtFYNmpbx9\/I\n\/PQEQaghIIZcoid1wGbWPkF8IKgbLKscuYZNex5qKyhGy8iYbonYx85lXkwThBICYkjt\/NS9B3zfP0JCJIJnyoEOAW\/1lOoXLfvU269jjugwQj\/EkFF1g+6m\nru8wIY6rEVvqfwzDsNH9F1Puhm5yW7teQd\/FcHEIQkNNAkXns6Pk8wRHIDQYV7vmqN3kpOSDQYLQQIYYEmogVzZx+VnivAeNImGgM8Wezs1b2YWPPkgThAI6\nZoeF4E8LXw3kimAYHoKKRe\/I7Z+6P0UQCgiIIZDYlXqaMXYIwTBs1FiLPhW9wkmCUEArs+F0B+uYnvOkDiaPb0yM2SQc1p89l0kTGA0ZouGsFuuADIQIhiGm\np2goimcIjIeAaDou9iMY1gORSqX6XAKjoduNwVRxWQhuVIV8PB6nHckdtHFjJzlOVDUa0CcXPqb33\/+ALl26SDAbQVcmcwfkneMExkJANFikzRooFjxa7Qyx\nra2Nnnj8X1J\/fz\/dtnMn6cuh1Wcq1UAz+c\/zPHrjzdfpr\/\/6\/9P\/e071DkID0M2E2mJ9hIBoNDSqGCzRc88pWQG1akXmjZ0b6cknnqR\/8eij1NGxXjYOMBK3\nOmLkR33\/\/ffpz\/\/iz+jHP\/6x6otHEGBk5cZ++Yu1BMZCQDRYcldqRHC\/bzUC4r2999J\/\/k\/\/hdrXrKHKbHAhfvrTF+kH\/+MHdOXqFQKFUcSJ92KOFnOhUcVg\nsnUysdLBUGWBf\/QfvkN\/8v3\/LoNhu3xCLPpr84EH9tCPfvQjuu+++wgCRT+PTtoGQ0CEKaqu8L8d\/R49KovI+sioQflhfUcH\/fEff5ceeughArlZLfsRAmMh\nIIKmM8M\/\/I7M6nbLesLaZqVNTU303e\/+V\/ryl79MjU0Q9zBauckQEEH7j3\/4R\/TAngdqHgwr\/cEf\/Fs6cOAAOU7jdm5gto0is8EQEA3GmH12Jdq9vvCFL+hi\n8nIGQ8WyLPrmN3+Xvv3tb1Ojko1k6JxtMAREgwmx\/H35Nm\/eTP\/u3\/z7ZQ+GlX77t\/fR0aPHKBKJEIBJEBANZpOVpmX2jd\/5JrW0NdNK27t3L33\/+39CGzZs\nIABTICAaTFa\/p\/XkRctk27Zt9Nhjj61ab9R77rmHfvjD\/0kPP\/wwAZgAI2YbLPfJ+dzajq4DwWg3tfetb\/0+9fT0rGr3\/NbWVnro858nx7Lp3XfepXy+3qcg\nYbnchY8xXamhkCEazmLszHJErI6ODvqtx3\/LiGuV5N9Iv\/t7v0fHT5ygu+++m+qbyBEYCwHRdE5Tejmi1uce\/BxFY1EySVdXF\/3gBz+k733ve7o4rfpGmuCB\nPXuoZoSNy\/YMhtFuDOfb19N6UIUaNwLv2fsgmer++3fTfffdT3\/3k5\/Q8JlhOnfu3KoMEqGy6MHBQXpcZtJf+9pXCeofAqLhsplMLnHnZ2RWwVK1uq5Z1dvd\ncecdZDL1JaDqFtXP22+\/TX\/zN2fpueeeo4sXl3\/MxWQySQMDg\/Tggw9Se3u7fk71oazJkGaW\/w6BsRAQw0CwYzJCDNUqIN5zz2eotaWFwmLHjh36RzUCZTKj\n9PLLP5dZ46v01ltvke8v\/VI4deXMXXfdRalUrw6CKiBOpwJjLrfU6j9dBZAlMBYCYhg0U5quM3U21qS1+f77wzn6jApcqiitfhTVIj02NkbvvvuuzCLfol\/\/\n+td0\/vx5mpyc1D+VVIYXjUb1ddVbtmzRAVZ1O7rjjjv1rXp9Lu3ta2oQECUbdYgmQ0AMAVVs3nnXvWnf5wO1yBJ37NhJ9UBNZ7Br1y79U6YyRhUo1W1l9qiK\n4DH5\/mgkImPSwnubtbe3US1kX8sgIBoMATEsBDstT+slB0SVCSUSCapXKti1LEN1gOvWIDlnMtMHo6HbTUj4MT\/NiGVpibq7u3VmBQujisxLxlF\/aDoExJBQ\nxWaZ\/Zxeap\/ETZs2ESxcubV5SWz2CoHREBBDJBa1h5d6bbNqUICFU12Vloapsb9Qf2g4BMQQeS3zDxlm2dmlZInbtm4jWLg1a5ZeZM6+eS5NYDQExJBhxM\/Q\nIqmW1m4UmRdFzTezJGhQCQUExJCJRJ3hW\/WZm40q9qnrhWHh1q1bR0t0msB4CIgh82bmpbQMiJnFFJtVS+lGBMRFaW1dSlceua\/y9jCB8RAQw8iOLKrYvH37\ndj3UFiyc666lxWOZbDaDYb9CAAExhCzLzyymtXn7NjSoLJbq7L3YqgqZIC663hdWFgJiCBVyfloIWnDGkUgmCBZvcX0RVUa+\/HPjQG0gIIaQKn5ZNksvtB4x\nkdxBsHiLulpFti5n38ykCUIBATGkrObWEwsJiKqFeUNHB8HirVmzqKtV0LocIgiIIfXrl36SXsgQ+6q7TUuIxkA00caNG2lh1P6x0wShgYAYavMvNqtx\/2Bp\nOjoWPIf0sCwuZwlCAwExxJhlnZ1vQLzvvs8SLE1n50ICorp2GcXlsEFADLEo56csa36DnSYSSYKlcdcsZExElqECisthg4AYYm+q4hi79Rh7qu4Qw34tXdtC\nRs1mdAadscMHATHEhoaeTfT2prK3Kjbv3LnTmDmOw2zNvDNElqO8dZwgdDCFQAipQOh2dOxvaW4\/9NRXnnJffumlOd\/f1dVNsHQq01ZTFNxypj9hDSM7DCcE\nxJAZGhpyW9a6I50buhK2ZVHPnXfSWtelS7lLsy5zp+FzMIdFLBaTP3GamBif8z0nfvi\/UtedSXewvx9BMWRQZA6Zto5NI1u7tiUcmanYVjDznJpTeC7bcA1z\nTQTTmM49H81jjz5KOxLJ1FZ3y8mhkZGaTBsLKwcBMUT+7\/Nnn97UsTmlptLUs+\/JFmZhC7p\/9+45l9uyZSvB0gUZYmzW1yNyvzz5pS8Tszk1NzcNbGnvPkkQ\nKgiIIaGKyh3rOg5FoxHiwpOx0CbOuH7tkUce0SdjNWpg0xoMbgolc00l8KUnv0Q7duyQ+4WR41jU2to+MPLCCwmC0EBADIlIk3ugtak14XNfdcgOgqFqOJY\/\nzc3NlEqlqi63FdlhTbW2Vu964zgOfeWrXwke6AFuiGxZQ++2dB0hCA0ExJBw3fX7muJNZFnsRjCscP\/91YvNn777boLamW2Ah8cefYw6O29c6yyYupKIqCke\nG3h2BFliWCAghoAqLssMJOVzT55oQtUezvDggw9WXbanp4egdlx3ZjvJ+vXr6V\/t3z\/jeVWh4Ti2u3nj5hRBKCAghkCe4q7MDl0ufDV1XtX3bNiwoerVKFu3\noshcS21VisyPPfZY9Xpauas8USTO\/X0EoYCAGAIt8XhfLBonpzyE\/SwXnTz00EM3PVYjPKvsBWpneqOKur75qd95atb325ZNzfFmgnBAQAwB2aAsW5b5rNlh\n2ecffvimeT86Ozt13zmonenTCOwbGKDmOcaZ5KqCQ\/goMocEAmIIxGLNfVEnogNi9RrEwG07b6PNmzdPPd6+PUFQW5UDPNx222301FNP3XKZol9EB+2QQEAM\nAdu2t8t6qDmDoaKyw3vvvXfq8fbtuEKl1ioHePjWt35fX9t8K5aFK2TDAgExBDzZuuzLBhWmKg9vMWhNZfeb7YkEQW2pAR5UNcSePXto796981pG9Q6AcEBA\nDAHBgytSbpUhKrt29eiKf3XSbtu2naC21KV73d3d9O1v\/+t5L4OB18IDATEEHCtCEbt0\/fItqCsp9uzZqxtUcMle7akvmq9+9WsYcLdOoXIjBCzHka3MQl+y\nN58s8etf\/zqNX7tG8TkGIoDFURni448\/vqBl4k1NaYJQQIYYAsKXDSoyIOquN\/OgOmPvfuABAjPgJAsP7KsQiMaip4O8cP67q6+vj8AM+ckiQTggIIZAoVgk\nzysQE7cuLpfFUFw2gmpQcWz7FYJQQEAMAS6LzLFInDBPVPioqg7HcjCVQEggIIaAyhB93fUGuytsLGbT9esTCIghgTMsDDjPch0Q519kBnM0NbVlCEIBATEE\ncteuZdXUl7qVGTExVOQXWTabyyJDDAkExBCIUz4nSORU8QvCJWI52f7eXgTEkEBADIHBwcFcfjKf0+PSQ6h43EMLc4ggIIYEY1ZGjXgDISJUhhhNE4QGAmJI\n5PMTr9iWI3cYssSwCPaVjQaVEEFADIkr+YvD49fHSaBhJUzSyeTaLEFoICCGxJP9\/RmP+8MksMvCQmaIZwhCBWdXiIxfu3paT62CYrPxLGHlLIoNE4QKAmKI\nPPxg77Bsbc5yH8Vm41nWKRSXwwcBMWSKxcJhWRTLISCayxKUc3jkGEHoICCGzH29dw5fvz55gnAln6HUzIhOv8wO0Rk7hBAQQ+gzdyePcp8ds8hGUDSN4Mfu\nSHaiq01IoXY+xF597Z2jTtQ6Yjn2jD0pH+Y831fTZGJO4BXCBT+4K7nlFEFoISCG3BtjHyYiZPfJ03EfZ1wGPyshiGeYzFTGr+YPtba27ufW\/KYegEVR9bln\nOLGju5LdWYJQQ0CsM2Njl9xy\/dXo6NhArNkZcqI2LoOuESH4CVG6+sQikZOBMINAWD9wmtSxoWdHEnfuvGPUcSxXWKhsXCpLfqs4FF+LBpP6hUaVOjb4RH92\nYnw8oxteEA+XjJGdRjCsbwiIde6ji785zVBeXjr5hSIrHk4Q1DWcKQ1g9Bdvi7a2ZvKJY48vkroUz6FYEhlifUOG2AA48WHfR0vzUjBGKC43AATEBnAplzut\nmpkxluISCOc0Qd3DGdIgRl99SzQ3x9SgA9jrCyTrYLMRivciQ6x\/yBAbxGRh8jjGUlwc23KGEQwbA86QBnHpykcnBBc54kgPF0L1PbS4g5FrGgQCYoN4or8\/\nez2fT+sdjj6J88aJnUF22DgQEBvIhJ8\/5nkCI27Pk+q\/KfPDowQNAwGxgXyc\/cdsvpBP62IzssRbshgbxlBejQUBsYGoCe+v5S8fk3WJCIjzIRi62jQYlJ0a\nUObVt0eaW5r7BMOVK7OxiKVvT3T3EzQUZIgNaPz65cPc9zEvy6wYOcI+TNBwEBAb0Od292auXy+cwbws1dlMzZiHusNGhIDYoHLjuaOez5ElzpSzOUe\/wwaF\ngNig+vf2Zi9fuXDMEpioqhIT7HASI2A3LFSpN7hXX3tnNN4US2HeFT3EV+b2ZFcvQcNChtjgclcuHi5MFmRmRA1O5QYCDSkNDgGxwX1+b2\/68vjlE5ZwGrro\nbDH7+O3J7jRBQ0NABPro6idH85OTaatBpxqQf3Xm9u2dyA4BARGIBvv7c7\/JfXLQK\/As8YZLE7MRMYkO2KChUQWmjL461tccj42QLD03xpHByBZi8LbkpmEC\nIGSIUKH37mT6wuWLJ1ijjJno82MIhlAJGSLMMPqLsVOtrfH9vI4nt2eMnbpje\/dBAqiADBFmOH8hezSfL8pGlro9PIYjnHA1CsyADBFm9fqb\/zTqxOyUqKNO\nivKAT8tGlMFkMolRsGEGZIgwq4+u\/6bf8\/gwq5PuODKuIxjCnJAhwpxGRkfdjti6kVhTNOSZosjcmdiMy\/JgTsgQYU79vb25u+\/a3usV\/NPkUyivZmFMnIqK\nAvoawi0hQ4R5e+W1d47G49EjZIcnKgqfn+jZueUQAcwDAiIsyBu\/eq+PkT1kOcw1vAid48If3JXcmiaAeUKRGRZk1+1b0zGnqdcvirSpl\/mplmQuWC+CISwU\nMkRYtF\/+8sOjVoQ9zS3ukiGEoMM9yU3HCWAREBBhScbGLrlFUTjOmL+PM1q9wCjodJQmD6FLDSwFAiLUhAyMCU7eM\/JngKum6JU5slTwU8Xjw7sw7D\/UAAIi\n1FQQGAsHONHTnPnLlTHKBhNxwqbI8B2YHQ9qCAERloUqShP5fUXhDxATjwjiiSUebWqGwDPydvhOjFADy8SogPiXf\/V8Km5FUmT5OX\/ianpwcBD1QXVCZY4F\nKqRsi+3jgqeEkA0xTM9ylxCVvb0ZZfWtEDmyKMO5OEtkp1Ekrh9DQ0OuHXP75L52bZsyT36x35gs34iAODT0bKJ9\/bpn1rodA7FInDj3qFAsZgvXr\/bv3dub\nJahbY2MfJvIVjxH46tvQ8yOpTeu7hlqbWmWJwSLBOV26+snw5\/f0DpIBjAiIz438\/TNburYeijgOWZbcSIKTrCin8Ynx3DsX302qIe4JAEJNZYbru5Nj3R3d\nri88WQCw9Pnuc0GXr1w8vvuzd636vDZGdMxua11zwJHBkDFVUvL0sCTEPGptaXE3t3cNEACEnh13BzrXdrpC+DrwyARRXWcug6KgeKz5ABnAIQNEnahrqSBo\nMeK6YkkFRkt+OEZN8eYEAUDoxaLRhGWrs1omPaokKM9zT57xSjQaMaJzvxEBUaXNsqJdfluUElYVE+WPL79JPFmfCAB1wFHVYb4OhLo0yG5qTDOCEUVmztW3\nBAvaGis2jHrsWEbEbABYIkf+U\/WGugR4c88CWY\/okwmMGdyBsepfERwZIkBd8LyCrjdUJcIZmBkpojEB0UIXcYC6Fm9uDjJBYe6wcUYERFt+Y3ic47IZgDrm\nFQoy8bFlPJwZEE05940IiL4OhiyMo9MDwDw5VjSIfAZnPkYEREv1WEc4BKhrHi+opmWZITJjg6IZrcyC61QaAOqX6nOoLrzQbSrT8h9T0iFj6hC58FGHCFDH\nHB1ubDSq3Aov1SECQP1SfYo9XpTJDwLinFipXxJqEQHqmUVRJ0ZEM+sQ0cpcQWeIhnTMBIDlked5ea4XZR0iMzb7MaOVWQ\/5hfwQoJ6pOkQ11Fdwqa6ZjAiI\norSBkCMC1C9Vh2h69zozAiIF1zIjRwSob45l637H07MfdLupMDX8FwFAvSqQV2orEKhDnIuqUwiuVgGAemVxNcZpMNSfqczodkOEDBGgzqlrmdV4iFzMbFSx\nMPzXDSozRIYIUO9UIBTV6xAN6WVizHiIAFDfCl5BthfYQYaIOsS5YYBYgPoWdeJU9L0gQzQUBogFgBWhJoxzyhniNOh2U0F9a6gNhTpEgPrllLrXqQQI4yHO\nIRgFw4xZtwBgeeg6RGbpEfJRhziHYIBYtO8A1LOoEy0VlzHazZxsXKkCUPc8Xk58cKXKnDBALED9U3WIRb+IOsRbwQCxAPVvojBBETtStQ4RHbMrYIBYgPrX\nHG2etQ6RcOneDeXRbgCgfqk6RMeKYMTs+UKOCFC\/VB1iwZ8MJt1DHeLsMPwXQP1T\/RBV1xtRpTSIbjcV1AZSdYjVNko83kwAEH5OJLqGm5wekjnjIWZny6O9\nYmE\/AUDoRaPRPp97VK0C0XEiGTKAEQGx4BcygljVCWiisVhi5IUXEgQAoTU09GyiKd6UUmc5qzK0FRMyKTKAEQFxslA4w4X6MDOv5xFyS61t3Tg0NDLiEgCE\nkrthw0izrP7SUw5Pf1HoBpczZAAjAmLu43eHRTCY7sxsWgbEWDSa2uJ2PU0AECpDQ0Pu2RdGj3Su70pEbJs4VZk+QCdCkTQZwJjazZ\/9\/M2Rde66Pp95N38q\nHSQF8SLRxdyF7JWLF\/qfeKI\/SwBgNFVMXrexa6hzXWfKdixdKcZVCjYtDbPJGr4t0TVIBjAmIP7dz0ZT690NI8yx3Bl5qypOC0ZqhLCJ6xOUn7yevnzl8iuy\ngjZHq4hZdm6ycD1D+WuZwcHBVf0s0NhUJuY58VQ8Gu+zrNUt+DmOQy3N7fuaZZ1hS3MrWbKUp0p6OrdRH+2mqMMoKuzeZLLTiEYVo9q\/z73+T4fiMecZX81X\nOH0SGvmUrVqihbqqRT3D9PWPjh0hzy\/qwSHUJndsR7\/f94PxFdVzthpv0S\/o2xuPi3JHqdF7fb2Mr6JtqaFbPa+Xlb9UX2PJ1Ig8NhWKBf3eYJBLuYzv6fu5\na5ey165ODH6xf7cROxUay7MjLySao7HRDes3usHxbQeDpej\/5D9m6eM8GGQmOP5Va+\/0W\/VedR5E9DBdN86H8jrK76m2jsrzUHehmzp\/ucoLybLl8iSqTC5F\nh3uSm46TIYzrEJQ5NzbS3BTrm\/lNQnoHMcH0VmRClPeXrKiVQYp7OlCWA5xsjZkaVkwFtfI1lMGMX0ImoSoYevo5NbS5el4FQsaoNIilr+8XZWBVo3kHn8XS\n33acq\/UJ3clUHQy+XPXk5GT2rd+M9Q729yNThBWjMsPubT2j69rXJlT9nLoaRB276uyIOTEqekXdqhsEr8hUUFNBUwh1jMvzQB\/rwbniVAQ4nSTIkyBIHoKs\nszyyvSgN4eXLddjqoopSclI+b0i\/JzjnOKPg\/Jl2Psuzafh2Q4rKZcaNynqpmBv0fJHRgW86FQstEaTdtvymUgHPIl1Rq24t+Zwt03X1Pi4Dlyd3lmql1u+X\nB4V6Xf\/Fco\/5zJ+qz1DLMPkNppZRv9ZT32XyeV8+dhw7mAFL71Au18n1MuogK8qKTR2UVcNPLJbY2La+jwBWUqytr625VQZDFZiEDkK2PJbV9cJFIYOhXc7o\nVCDz9XGrn1Nf7Cw4d9TxrR6r53Udvrolv1TM9XV2p15Tt0X5mOusTwTLqFZjeU4Gy3C9jKde1+cqC86xKsFQRtCMI64fJMMYFxD7e3tzH41\/3O\/5fJhmG+9B\nBzzSG18FN652SGnjqx2hd4Id1Ffo50oBVAdPdSCUgyq7sYwoLcNLAbTy9WCZ0nrLv0f9qPeXDgaVRK5pctE1CFZUS6xJH3O2xYLAprJBfQyz4FwoHc\/BMVt6\nT+n54P1040d3c7vxerVl2LRlyKpcJkhMmB2ck2KWzFAmk2ejVOhPJpPGlaaMHLdfBcW7bt88WMxPHmZ8jpExqn3zsFnuz\/U6W8TrFbc6C5X\/IpE46hBhRUXi\nkYw69nSRlwWZHlUGotX4mV2uVGfYZ2IwVBgZbmzsUopT4YhMxwf0zjaU\/GaR9SGbjKoPgcZw7o33RhyH9THH3JGo5cdKy5bRw3cktxidNBgfEMtkYEz4VOyT\nifk+mTQmZCVuiswIkPJbj5\/uSW45RACrYGR01N0Q6zgai0f2y2Kru+pnddDamZX\/z3DBzsQpP2xqRggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\nAAAAsPKWbaAg9xsnEwQAsAxyf3EwS8ug5gHRHTjpFuL2M0KIA6EZbBEAQqE8Aiojdio66R\/ODR+s6TiLDtVYIWqN6MFbafaR\/wEAlkKQOCBjjYozvVRDNZ1T\npfUbJ\/sEoxQBACwzFWtav\/G\/+6iGahoQOVl9BACwQjjxPqqhmhaZheflyK5cpai4rZw9L5g+VN+K0u1UhWMwEf3UY\/U6ExWvzbWOWdZ50+NZ1jH1eyvWUTln\ny4x1lJZZ8Doqfu9N65j+91dbB7YhtmGjb8PSsqW\/XzBe0zrEmmaIwrGGpz0TbBD1R+gNI25skPLzMzaQmFp06vXyfVG6M+s6pj2uXAdjc6+DqqxDzLUOmn0d\nYq51VLyH5vr7RfW\/H9sQ27Cht2HpJ\/jcOYtRmmqopgExL5vCZcQ+KO\/mpj49K\/0ootqvLE+dWLEx2Y27Nz2uXKbqOtjs65ixkunrYItbB6u2DppjHQv4+2d7\njG04yzqwDWcsM+s6Qr8NZYzhx8b\/7GBNpzVltAxavn4yJWxrQLY2PxI8U7GBbnpc+TFEldcrP970ZWiOdVY+x6j671vsMtWWE7TynwPbcObrS1lmrs+BbWjS\nNpT51dmiT8PF\/3PQ6DmeAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoJH9M0MHiEPaS+bnAAAAAElFTkSuQmCC\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Localization.swift",
+      "kind": "Dictionary",
+      "offset": 587,
+      "length": 947,
+      "value": "[(\"check\", \"Tekshirish\"), (\"pinfl\", \"JSHSHIR\"), (\"passport_info\", \"Pasport ma'lumotlari\"), (\"suggest_advice\", \"Quyidagilarni amalga oshirishingizni tavsiya qilamiz:\"), (\"advice\", \"1. Qurilmangizning old kamerasi tiniqligiga ishonch hosil qiling (old kamerani artib qo’yish).\n\n2. Smartfoningizni yuzingiz balandligida saqlang.\n\n3. Xona yetarlicha yoritilganligiga ishonch hosil qiling, aks holda yorug‘ xonaga o‘ting.\"), (\"camera_denied\", \"Kameradan foydalanishga ruxsat berasizmi?\"), (\"yes\", \"Ha\"), (\"no\", \"Yo'q\"), (\"ok\", \"OK\"), (\"security_check_failed\", \"Qurilma xavfsizlik tekshiruvidan o'tmadi. Iltimos, ishonchli qurilmadan foydalaning.\"), (\"something_went_wrong\", \"Xatolik yuz berdi. Iltimos, qayta urinib ko'ring\"), (\"no_internet_connect\", \"Internet aloqasi yo'q\"), (\"get_back\", \"Ortga qaytish\"), (\"session_not_found\", \"Sessiya topilmadi\")]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Localization.swift",
+      "kind": "Dictionary",
+      "offset": 1590,
+      "length": 1349,
+      "value": "[(\"check\", \"Текшириш\"), (\"pinfl\", \"ЖШШИР\"), (\"passport_info\", \"Паспорт маълумотлари\"), (\"suggest_advice\", \"Қуйидагиларни амалга оширишингизни тавсия қиламиз:\"), (\"advice\", \"1. Қурилмангизнинг олд камераси тиниқлигига ишонч ҳосил қилинг (олд камерани артиб қўйиш).\n\n2. Смартфонингизни юзингиз баландлигида сақланг.\n\n3. Хона етарлича ёритилганлигига ишонч ҳосил қилинг ёки ёруғ хонага ўтинг.\"), (\"camera_denied\", \"Камерадан фойдаланишга рухсат берасизми?\"), (\"yes\", \"Ҳа\"), (\"no\", \"Йўқ\"), (\"ok\", \"OK\"), (\"security_check_failed\", \"Қурилма хавфсизлик текширувидан ўтмади. Илтимос, ишончли қурилмадан фойдаланинг.\"), (\"something_went_wrong\", \"Хатолик юз берди. Илтимос, қайта уриниб кўринг\"), (\"no_internet_connect\", \"Интернет алоқаси йўқ\"), (\"get_back\", \"Ортга қайтиш\"), (\"session_not_found\", \"Сессия топилмади\")]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Localization.swift",
+      "kind": "Dictionary",
+      "offset": 2987,
+      "length": 1334,
+      "value": "[(\"check\", \"Проверить\"), (\"pinfl\", \"ПИНФЛ\"), (\"passport_info\", \"Информация о паспорте\"), (\"suggest_advice\", \"Рекомендуем выполнить следующие действия:\"), (\"advice\", \"1. Убедитесь, что передняя камера вашего устройства четкая (протрите переднюю камеру).\n\n2. Держите смартфон на уровне лица.\n\n3. Убедитесь, что комната хорошо освещена, или же переместитесь в более светлое помещение.\"), (\"camera_denied\", \"Разрешите использование камеры?\"), (\"yes\", \"Да\"), (\"no\", \"Нет\"), (\"ok\", \"ОК\"), (\"security_check_failed\", \"Устройство не прошло проверку безопасности. Пожалуйста, используйте надёжное устройство.\"), (\"something_went_wrong\", \"Произошла ошибка. Пожалуйста, попробуйте еще раз\"), (\"no_internet_connect\", \"Нет соединения с интернетом\"), (\"get_back\", \"Назад\"), (\"session_not_found\", \"Сессия не найдена\")]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Localization.swift",
+      "kind": "Dictionary",
+      "offset": 4369,
+      "length": 780,
+      "value": "[(\"check\", \"Check\"), (\"pinfl\", \"PINFL\"), (\"passport_info\", \"Passport information\"), (\"suggest_advice\", \"We recommend doing the following:\"), (\"advice\", \"1. Make sure your front camera is clear (wipe the front camera).\n\n2. Hold your smartphone on face level.\n\n3. Make sure the room is well lit, or move to a brighter room.\"), (\"camera_denied\", \"Allow camera usage?\"), (\"yes\", \"Yes\"), (\"no\", \"No\"), (\"ok\", \"OK\"), (\"security_check_failed\", \"Device failed the security check. Please use a trusted device.\"), (\"something_went_wrong\", \"An error occurred. Please try again\"), (\"no_internet_connect\", \"No internet connection\"), (\"get_back\", \"Back\"), (\"session_not_found\", \"Session not found\")]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Localization.swift",
+      "kind": "Dictionary",
+      "offset": 5205,
+      "length": 1011,
+      "value": "[(\"check\", \"Tekseriw\"), (\"pinfl\", \"FShJIN\"), (\"passport_info\", \"Pasport maǵlıwmatları\"), (\"suggest_advice\", \"Tómendegilerdi ámelge asırıwıńızdı usınıs etemiz:\"), (\"advice\", \"1. Qurılmańızdıń aldınǵı kamerasınıń tınıqlıǵına isenim payda etiń (aldınǵı kameranı sürtip qoyıń).\n\n2. Smartfonıńızdı júzińiz biyikliginde saqlań.\n\n3. Bólme jetkilikli jaqtılandırılǵanına isenim payda etiń, keri jaǵdayda jaqtı bólmege ótiń.\"), (\"camera_denied\", \"Kameradan paydalanıwǵa ruxsat berasızba?\"), (\"yes\", \"Awa\"), (\"no\", \"Yaq\"), (\"ok\", \"OK\"), (\"security_check_failed\", \"Qurılma qawipsizlik tekseriwinen ótpedi. Ótinish, isenimli qurılmadan paydalanıń.\"), (\"something_went_wrong\", \"Qátelik júz berdi. Ótinish, qayta urınıp kóriń\"), (\"no_internet_connect\", \"Internet baylanısı joq\"), (\"get_back\", \"Artqa qaytıw\"), (\"session_not_found\", \"Sessiya tabılmadı\")]"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 106,
+      "length": 4,
+      "value": "0xF6"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 113,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 125,
+      "length": 4,
+      "value": "0xF6"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 132,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 143,
+      "length": 4,
+      "value": "0xF8"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 150,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 162,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 202,
+      "length": 4,
+      "value": "0x4C"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 209,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 221,
+      "length": 4,
+      "value": "0x01"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 228,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 239,
+      "length": 4,
+      "value": "0x20"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 246,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 258,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 299,
+      "length": 4,
+      "value": "0x0A"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 306,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 318,
+      "length": 4,
+      "value": "0xBD"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 325,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 336,
+      "length": 4,
+      "value": "0x06"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 343,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 355,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 396,
+      "length": 4,
+      "value": "0xD0"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 403,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 415,
+      "length": 4,
+      "value": "0x06"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 422,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 433,
+      "length": 4,
+      "value": "0x06"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 440,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 452,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/MainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 921,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "StringLiteral",
+      "offset": 1849,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "StringLiteral",
+      "offset": 1886,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "StringLiteral",
+      "offset": 1923,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "StringLiteral",
+      "offset": 1955,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2096,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2139,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2176,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/Models.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2213,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/usmanov\/StudioProjects\/yuz_id\/soliq_id_ios\/Sources\/SoliqIDKit\/SoliqID.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1654,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

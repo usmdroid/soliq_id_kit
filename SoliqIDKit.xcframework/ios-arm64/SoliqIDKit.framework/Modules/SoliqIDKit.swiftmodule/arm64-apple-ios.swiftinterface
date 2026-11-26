@@ -1,0 +1,94 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.4.2 effective-5.10 (swiftlang-6.4.2.1.9 clang-2100.4.1.1)
+// swift-module-flags: -target arm64-apple-ios15.5 -enable-objc-interop -enable-library-evolution -language-mode 5 -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SoliqIDKit
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.4.2
+import AVFoundation
+import Foundation
+import Swift
+import UIKit
+import YuzIDKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum SoliqIDLanguage {
+  case uz
+  case uzCyrillic
+  case ru
+  case en
+  case karakalpak
+  public static func == (a: SoliqIDKit::SoliqIDLanguage, b: SoliqIDKit::SoliqIDLanguage) -> Swift::Bool
+  public func hash(into hasher: inout Swift::Hasher)
+  public var hashValue: Swift::Int {
+    get
+  }
+}
+public enum SoliqIDInfoType {
+  case pinfl
+  case passport
+  public static func == (a: SoliqIDKit::SoliqIDInfoType, b: SoliqIDKit::SoliqIDInfoType) -> Swift::Bool
+  public func hash(into hasher: inout Swift::Hasher)
+  public var hashValue: Swift::Int {
+    get
+  }
+}
+public struct SoliqIDConfig {
+  public var infoType: SoliqIDKit::SoliqIDInfoType
+  public var pinfl: Swift::String
+  public var passportSeries: Swift::String
+  public var passportNumber: Swift::String
+  public var birthDate: Swift::String
+  public var guid: Swift::String
+  public var applicationGuid: Swift::String?
+  public var language: SoliqIDKit::SoliqIDLanguage
+  public var showsResultScreen: Swift::Bool
+  public var enableSecurityChecks: Swift::Bool
+  public var allowSimulator: Swift::Bool
+  public var allowDebugger: Swift::Bool
+  public init(infoType: SoliqIDKit::SoliqIDInfoType, pinfl: Swift::String = "", passportSeries: Swift::String = "", passportNumber: Swift::String = "", birthDate: Swift::String = "", guid: Swift::String, applicationGuid: Swift::String? = nil, language: SoliqIDKit::SoliqIDLanguage = .uz, showsResultScreen: Swift::Bool = true, enableSecurityChecks: Swift::Bool = true, allowSimulator: Swift::Bool = false, allowDebugger: Swift::Bool = false)
+}
+public struct SoliqIDPerson {
+  public let pinfl: Swift::String
+  public let surName: Swift::String
+  public let name: Swift::String
+  public let patronymicName: Swift::String
+  public let birthDate: Swift::String
+  public let birthPlace: Swift::String
+  public let docSerial: Swift::String
+  public let docNumber: Swift::String
+  public let livingPlace: Swift::String
+  public let docGiveDate: Swift::String
+  public let docExpirationDate: Swift::String
+  public let docGivePlace: Swift::String
+  public let status: Swift::Int
+}
+public struct SoliqIDEvent {
+  public let success: Swift::Bool
+  public let code: Swift::Int
+  public let message: Swift::String
+  public let id: Swift::Int
+  public let token: Swift::String
+  public let person: SoliqIDKit::SoliqIDPerson
+  public let imageBase64: Swift::String
+  public var dictionary: [Swift::String : Any] {
+    get
+  }
+}
+public enum SoliqIDError : Swift::Error {
+  case alreadyRunning
+  case noViewController
+  case invalidConfiguration(Swift::String)
+  case securityCheckFailed([Swift::String])
+  case server(Swift::String)
+}
+public enum SoliqIDResult {
+  case completed(SoliqIDKit::SoliqIDEvent)
+  case cancelled
+  case failure(SoliqIDKit::SoliqIDError)
+}
+public enum SoliqID {
+  public static func present(from presenter: UIKit::UIViewController? = nil, config: SoliqIDKit::SoliqIDConfig, completion: @escaping (SoliqIDKit::SoliqIDResult) -> Swift::Void)
+}
+extension SoliqIDKit::SoliqIDLanguage : Swift::Equatable {}
+extension SoliqIDKit::SoliqIDLanguage : Swift::Hashable {}
+extension SoliqIDKit::SoliqIDInfoType : Swift::Equatable {}
+extension SoliqIDKit::SoliqIDInfoType : Swift::Hashable {}

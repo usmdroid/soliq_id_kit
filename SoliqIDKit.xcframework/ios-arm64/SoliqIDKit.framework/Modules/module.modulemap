@@ -1,0 +1,3 @@
+framework module SoliqIDKit {
+  header "SoliqIDKit-Swift.h"
+}
